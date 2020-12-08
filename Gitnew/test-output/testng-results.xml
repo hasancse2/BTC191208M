@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17206" started-at="2020-12-07T15:59:01 EST" finished-at="2020-12-07T15:59:18 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17206" started-at="2020-12-07T15:59:01 EST" finished-at="2020-12-07T15:59:18 EST">
+      <class name="com.bit.project.test.SmokTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.bit.project.test.SmokTest@587d1d39]" name="openBrowser" is-config="true" duration-ms="4935" started-at="2020-12-07T15:59:01 EST" finished-at="2020-12-07T15:59:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyTarget()[pri:0, instance:com.bit.project.test.SmokTest@587d1d39]" name="verifyTarget" duration-ms="5941" started-at="2020-12-07T15:59:06 EST" finished-at="2020-12-07T15:59:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTarget -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.bit.project.test.SmokTest@587d1d39]" name="closeBrowser" is-config="true" duration-ms="6295" started-at="2020-12-07T15:59:12 EST" finished-at="2020-12-07T15:59:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.bit.project.test.SmokTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
